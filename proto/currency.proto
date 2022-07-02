@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package currency;
+
+option go_package = "/api";
+
+service CurrencyService {
+    rpc GetCurrency (CurrencyRequest) returns (CurrencyResponse);
+}
+
+enum Currency {
+    USD = 0;
+    EUR = 1;
+    RU = 2;
+}
+
+message CurrencyRequest {
+    Currency Name = 1;
+}
+
+message CurrencyResponse {
+    Currency Name = 1;
+    string Country = 2;
+    string Description = 3;
+    float Change = 4;
+    float RateUSD = 5;
+    string UpdatedAt = 6;
+}
