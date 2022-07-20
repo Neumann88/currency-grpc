@@ -1,0 +1,2709 @@
+{
+ "date": "2022-07-20 20:48:43",
+ "data": [
+  {
+   "Name": "USD/ACT",
+   "Country": "-",
+   "Description": "Achain",
+   "ChangeP": "-1.77",
+   "Rate": "437.3593",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ADA",
+   "Country": "-",
+   "Description": "Cardano",
+   "ChangeP": "-3.64",
+   "Rate": "1.8680",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ADX",
+   "Country": "-",
+   "Description": "AdEx",
+   "ChangeP": "2.27",
+   "Rate": "5.3917",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AE",
+   "Country": "-",
+   "Description": "Aeternity",
+   "ChangeP": "1.10",
+   "Rate": "12.7701",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AED",
+   "Country": "United Arab Emirates",
+   "Description": "UAE Dirham",
+   "ChangeP": "-0.01",
+   "Rate": "3.6729",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AEON",
+   "Country": "-",
+   "Description": "Aeon",
+   "ChangeP": "-1.35",
+   "Rate": "10.5973",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AFN",
+   "Country": "Afghanistan",
+   "Description": "Afghani",
+   "ChangeP": "0.16",
+   "Rate": "89.2867",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AGRS",
+   "Country": "-",
+   "Description": "Agoras Tokens",
+   "ChangeP": "-0.93",
+   "Rate": "2.7808",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AION",
+   "Country": "-",
+   "Description": "Aion",
+   "ChangeP": "-0.69",
+   "Rate": "26.9185",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ALL",
+   "Country": "Albania",
+   "Description": "Albanian Lek",
+   "ChangeP": "0.00",
+   "Rate": "116.5705",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AMB",
+   "Country": "-",
+   "Description": "Ambrosus",
+   "ChangeP": "-4.41",
+   "Rate": "110.7621",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AMD",
+   "Country": "Armenia",
+   "Description": "Armenischer Dram",
+   "ChangeP": "0.00",
+   "Rate": "415.3500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AMP",
+   "Country": "-",
+   "Description": "Synereo",
+   "ChangeP": "-4.31",
+   "Rate": "100.9588",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ANT",
+   "Country": "-",
+   "Description": "Aragon",
+   "ChangeP": "-1.56",
+   "Rate": "0.5196",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/APPC",
+   "Country": "-",
+   "Description": "AppCoins",
+   "ChangeP": "-2.53",
+   "Rate": "409.5986",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ARDR",
+   "Country": "-",
+   "Description": "Ardor",
+   "ChangeP": "-0.39",
+   "Rate": "8.9659",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ARK",
+   "Country": "-",
+   "Description": "Ark",
+   "ChangeP": "-3.30",
+   "Rate": "2.0582",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ARS",
+   "Country": "Argentina",
+   "Description": "Argentine Peso",
+   "ChangeP": "0.00",
+   "Rate": "129.1450",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ART",
+   "Country": "-",
+   "Description": "Maecenas",
+   "ChangeP": "-0.24",
+   "Rate": "1,607.7859",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AST",
+   "Country": "-",
+   "Description": "AirSwap",
+   "ChangeP": "-2.26",
+   "Rate": "27.5594",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ATM",
+   "Country": "-",
+   "Description": "ATMChain",
+   "ChangeP": "0.24",
+   "Rate": "0.2506",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/AUD",
+   "Country": "Australia",
+   "Description": "Australian Dollar",
+   "ChangeP": "-0.12",
+   "Rate": "1.4476",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BAT",
+   "Country": "-",
+   "Description": "Basic Attention Token",
+   "ChangeP": "-0.41",
+   "Rate": "2.3178",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BCH",
+   "Country": "-",
+   "Description": "Bitcoin Cash",
+   "ChangeP": "0.28",
+   "Rate": "0.0078",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BCN",
+   "Country": "-",
+   "Description": "Bytecoin",
+   "ChangeP": "-2.42",
+   "Rate": "14,983.4406",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BDT",
+   "Country": "-",
+   "Description": "Bangladeshi Taka",
+   "ChangeP": "0.09",
+   "Rate": "94.0656",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BGN",
+   "Country": "Bulgaria",
+   "Description": "Bulgarian Lev",
+   "ChangeP": "-0.10",
+   "Rate": "1.9111",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BHD",
+   "Country": "Bahrain",
+   "Description": "Bahraini Dinar",
+   "ChangeP": "-0.05",
+   "Rate": "0.3769",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BIF",
+   "Country": "Burundi",
+   "Description": "Burundian Franc",
+   "ChangeP": "0.10",
+   "Rate": "2,061.5000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BITB",
+   "Country": "-",
+   "Description": "Bean Cash",
+   "ChangeP": "-2.61",
+   "Rate": "5,229.4268",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BITCNY",
+   "Country": "-",
+   "Description": "bitCNY",
+   "ChangeP": "-0.28",
+   "Rate": "6.6804",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BLK",
+   "Country": "-",
+   "Description": "BlackCoin",
+   "ChangeP": "-1.32",
+   "Rate": "64.9566",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BLOCK",
+   "Country": "-",
+   "Description": "Blocknet",
+   "ChangeP": "-11.36",
+   "Rate": "4.5548",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BMD",
+   "Country": "Bermuda",
+   "Description": "Bermuda Dollar",
+   "ChangeP": "0.00",
+   "Rate": "1.0000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BNB",
+   "Country": "-",
+   "Description": "Binance Coin",
+   "ChangeP": "-0.12",
+   "Rate": "0.0037",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BND",
+   "Country": "Nation of Brunei",
+   "Description": "Brunei Dollar",
+   "ChangeP": "-0.09",
+   "Rate": "1.3912",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BNT",
+   "Country": "-",
+   "Description": "Bancor",
+   "ChangeP": "-1.24",
+   "Rate": "1.8454",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BOB",
+   "Country": "Bolivia",
+   "Description": "Bolivian Boliviano",
+   "ChangeP": "0.10",
+   "Rate": "6.8819",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BRD",
+   "Country": "-",
+   "Description": "Bread",
+   "ChangeP": "0.74",
+   "Rate": "14.8117",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BRL",
+   "Country": "Brasil",
+   "Description": "Brazilian Real",
+   "ChangeP": "-0.01",
+   "Rate": "5.4137",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BSD",
+   "Country": "Bahamas",
+   "Description": "Bahama-Dollar",
+   "ChangeP": "0.09",
+   "Rate": "1.0011",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BSV",
+   "Country": "-",
+   "Description": "Bitcoin SV",
+   "ChangeP": "-0.31",
+   "Rate": "0.0172",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BTC",
+   "Country": "-",
+   "Description": "Bitcoin",
+   "ChangeP": "-1.34",
+   "Rate": "0.0000",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BTG",
+   "Country": "-",
+   "Description": "Bitcoin Gold",
+   "ChangeP": "1.78",
+   "Rate": "0.0509",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BTM",
+   "Country": "-",
+   "Description": "Bytom",
+   "ChangeP": "-1.55",
+   "Rate": "80.9824",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BTS",
+   "Country": "-",
+   "Description": "BitShares",
+   "ChangeP": "-0.75",
+   "Rate": "75.3770",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BTX",
+   "Country": "-",
+   "Description": "Bitcore",
+   "ChangeP": "-0.37",
+   "Rate": "12.9679",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BYN",
+   "Country": "Belarus",
+   "Description": "Belarusian Ruble",
+   "ChangeP": "-0.31",
+   "Rate": "3.4474",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BYN",
+   "Country": "Belarus",
+   "Description": "Belarusian Ruble",
+   "ChangeP": "-0.31",
+   "Rate": "3.4474",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/BZD",
+   "Country": "Belize",
+   "Description": "Belize Dollar",
+   "ChangeP": "0.09",
+   "Rate": "2.0178",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CAD",
+   "Country": "Canada",
+   "Description": "Canadian Dollar",
+   "ChangeP": "0.09",
+   "Rate": "1.2884",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CHF",
+   "Country": "Switzerland",
+   "Description": "Swiss Franc",
+   "ChangeP": "0.24",
+   "Rate": "0.9711",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CLOAK",
+   "Country": "-",
+   "Description": "CloakCoin",
+   "ChangeP": "-2.61",
+   "Rate": "2.2642",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CLP",
+   "Country": "Chile",
+   "Description": "Chilean Peso",
+   "ChangeP": "0.00",
+   "Rate": "926.5000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CMT",
+   "Country": "-",
+   "Description": "CyberMiles",
+   "ChangeP": "-1.32",
+   "Rate": "263.6075",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CND",
+   "Country": "-",
+   "Description": "Cindicator",
+   "ChangeP": "0.00",
+   "Rate": "1,347.3129",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CNH",
+   "Country": "China",
+   "Description": "Chinesischer Yuan Offshore Hongkong",
+   "ChangeP": "0.15",
+   "Rate": "6.7551",
+   "LastUpdate": "07/20/2022 06:32:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CNX",
+   "Country": "-",
+   "Description": "Cryptonex",
+   "ChangeP": "-1.40",
+   "Rate": "18.7301",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CNY",
+   "Country": "China",
+   "Description": "Chinese Renminbi",
+   "ChangeP": "0.12",
+   "Rate": "6.7528",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/COB",
+   "Country": "-",
+   "Description": "Cobinhood",
+   "ChangeP": "-1.40",
+   "Rate": "4,214.2625",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/COP",
+   "Country": "Colombia",
+   "Description": "Colombian Peso",
+   "ChangeP": "0.00",
+   "Rate": "4,322.6000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CRC",
+   "Country": "Costa Rica",
+   "Description": "Costa Rican Colon",
+   "ChangeP": "0.07",
+   "Rate": "684.2050",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CRW",
+   "Country": "-",
+   "Description": "Crown",
+   "ChangeP": "-0.84",
+   "Rate": "54.6337",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CUP",
+   "Country": "Cuba",
+   "Description": "Kubanischer Peso",
+   "ChangeP": "0.09",
+   "Rate": "24.0257",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CVC",
+   "Country": "-",
+   "Description": "Civic",
+   "ChangeP": "-0.97",
+   "Rate": "6.3927",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CVE",
+   "Country": "Cape Verde",
+   "Description": "Kap-Verde-Escudo",
+   "ChangeP": "0.00",
+   "Rate": "105.4535",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/CZK",
+   "Country": "Czech Republic",
+   "Description": "Czech Koruna",
+   "ChangeP": "0.20",
+   "Rate": "24.0020",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DASH",
+   "Country": "-",
+   "Description": "Dash",
+   "ChangeP": "0.18",
+   "Rate": "0.0200",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DATA",
+   "Country": "-",
+   "Description": "Streamr DATAcoin",
+   "ChangeP": "-0.38",
+   "Rate": "28.4362",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DBC",
+   "Country": "-",
+   "Description": "DeepBrain Chain",
+   "ChangeP": "1.21",
+   "Rate": "1,113.9926",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DCN",
+   "Country": "-",
+   "Description": "Dentacoin",
+   "ChangeP": "1.53",
+   "Rate": "382,424.4996",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DCR",
+   "Country": "-",
+   "Description": "Decred",
+   "ChangeP": "0.14",
+   "Rate": "0.0393",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DENT",
+   "Country": "-",
+   "Description": "Dent",
+   "ChangeP": "4.55",
+   "Rate": "888.9894",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DGB",
+   "Country": "-",
+   "Description": "DigiByte",
+   "ChangeP": "-2.53",
+   "Rate": "84.6231",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DGD",
+   "Country": "-",
+   "Description": "DigixDAO",
+   "ChangeP": "-2.97",
+   "Rate": "0.0036",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DIME",
+   "Country": "-",
+   "Description": "Dimecoin",
+   "ChangeP": "-14.89",
+   "Rate": "212,804.5776",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DIVX",
+   "Country": "-",
+   "Description": "Divi",
+   "ChangeP": "-0.98",
+   "Rate": "48.1520",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DJF",
+   "Country": "Djibouti",
+   "Description": "Dschibuti-Franc",
+   "ChangeP": "0.00",
+   "Rate": "177.7700",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DKK",
+   "Country": "Denmark",
+   "Description": "Danish Krone",
+   "ChangeP": "0.31",
+   "Rate": "7.3002",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DLT",
+   "Country": "-",
+   "Description": "Agrello",
+   "ChangeP": "-1.40",
+   "Rate": "1,053.5221",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DMD",
+   "Country": "-",
+   "Description": "Diamond",
+   "ChangeP": "0.79",
+   "Rate": "0.0853",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DNA",
+   "Country": "-",
+   "Description": "EncrypGen",
+   "ChangeP": "0.00",
+   "Rate": "64.5348",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DNT",
+   "Country": "-",
+   "Description": "district0x",
+   "ChangeP": "-1.41",
+   "Rate": "19.1027",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DOGE",
+   "Country": "-",
+   "Description": "Dogecoin",
+   "ChangeP": "-7.82",
+   "Rate": "13.3641",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DOP",
+   "Country": "Dominican Republic",
+   "Description": "Dominican Peso",
+   "ChangeP": "0.07",
+   "Rate": "54.5650",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DOT",
+   "Country": "-",
+   "Description": "Polkadot",
+   "ChangeP": "-1.41",
+   "Rate": "0.1262",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DPY",
+   "Country": "-",
+   "Description": "Delphy",
+   "ChangeP": "-1.02",
+   "Rate": "177.3146",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DRGN",
+   "Country": "-",
+   "Description": "Dragonchain",
+   "ChangeP": "4.26",
+   "Rate": "42.4011",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DRT",
+   "Country": "-",
+   "Description": "DomRaider",
+   "ChangeP": "-1.45",
+   "Rate": "4,213.3320",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/DZD",
+   "Country": "Algeria",
+   "Description": "Algerian Dinar",
+   "ChangeP": "-0.14",
+   "Rate": "145.6600",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ECC",
+   "Country": "-",
+   "Description": "ECC",
+   "ChangeP": "-1.35",
+   "Rate": "4,217.7202",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/EDG",
+   "Country": "-",
+   "Description": "Edgeless",
+   "ChangeP": "1.09",
+   "Rate": "40.3802",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/EGP",
+   "Country": "Egypt",
+   "Description": "Egyptian Pound",
+   "ChangeP": "0.24",
+   "Rate": "18.9590",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ELF",
+   "Country": "-",
+   "Description": "aelf",
+   "ChangeP": "-1.48",
+   "Rate": "5.2524",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/EMC2",
+   "Country": "-",
+   "Description": "Einsteinium",
+   "ChangeP": "3.77",
+   "Rate": "108.2828",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ENG",
+   "Country": "-",
+   "Description": "Enigma",
+   "ChangeP": "20.70",
+   "Rate": "83.9630",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ENJ",
+   "Country": "-",
+   "Description": "Enjin Coin",
+   "ChangeP": "-2.02",
+   "Rate": "1.5738",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/EOS",
+   "Country": "-",
+   "Description": "EOS",
+   "ChangeP": "-0.13",
+   "Rate": "0.9266",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ETB",
+   "Country": "Ethiopia",
+   "Description": "Ethiopian Birr",
+   "ChangeP": "0.09",
+   "Rate": "52.2556",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ETC",
+   "Country": "-",
+   "Description": "Ethereum Classic",
+   "ChangeP": "1.40",
+   "Rate": "0.0399",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ETH",
+   "Country": "-",
+   "Description": "Ethereum",
+   "ChangeP": "-2.88",
+   "Rate": "0.0006",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ETHOS",
+   "Country": "-",
+   "Description": "Ethos",
+   "ChangeP": "0.00",
+   "Rate": "250.2321",
+   "LastUpdate": "7/11/2022"
+  },
+  {
+   "Name": "USD/ETN",
+   "Country": "-",
+   "Description": "Electroneum",
+   "ChangeP": "-5.74",
+   "Rate": "281.5364",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ETP",
+   "Country": "-",
+   "Description": "Metaverse ETP",
+   "ChangeP": "1.48",
+   "Rate": "26.0241",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/EUR",
+   "Country": "Euro zone",
+   "Description": "Euro",
+   "ChangeP": "0.31",
+   "Rate": "0.9804",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/EVX",
+   "Country": "-",
+   "Description": "Everex",
+   "ChangeP": "6.72",
+   "Rate": "70.2505",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/FAIR",
+   "Country": "-",
+   "Description": "FairGame",
+   "ChangeP": "1.52",
+   "Rate": "992.6330",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/FCT",
+   "Country": "-",
+   "Description": "Factom",
+   "ChangeP": "0.50",
+   "Rate": "15.8069",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/FTC",
+   "Country": "-",
+   "Description": "Feathercoin",
+   "ChangeP": "-20.02",
+   "Rate": "113.9825",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/FUEL",
+   "Country": "-",
+   "Description": "Etherparty",
+   "ChangeP": "-1.47",
+   "Rate": "3,915.1170",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/FUN",
+   "Country": "-",
+   "Description": "FunFair",
+   "ChangeP": "-0.23",
+   "Rate": "117.7713",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GAME",
+   "Country": "-",
+   "Description": "GameCredits",
+   "ChangeP": "-1.84",
+   "Rate": "56.9080",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GAS",
+   "Country": "-",
+   "Description": "Gas",
+   "ChangeP": "-0.51",
+   "Rate": "0.3440",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GBP",
+   "Country": "England",
+   "Description": "British Pound",
+   "ChangeP": "0.19",
+   "Rate": "0.8347",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GBYTE",
+   "Country": "-",
+   "Description": "Byteball Bytes",
+   "ChangeP": "-5.61",
+   "Rate": "0.0589",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GIP",
+   "Country": "-",
+   "Description": "Gibraltar-Pfund",
+   "ChangeP": "-0.16",
+   "Rate": "0.8322",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GMD",
+   "Country": "Gambia",
+   "Description": "Gambian Dalasi",
+   "ChangeP": "0.00",
+   "Rate": "54.0350",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GNF",
+   "Country": "Guinea",
+   "Description": "Guinean Franc",
+   "ChangeP": "0.09",
+   "Rate": "8,684.4500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GNO",
+   "Country": "-",
+   "Description": "Gnosis",
+   "ChangeP": "-1.54",
+   "Rate": "0.0064",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GRC",
+   "Country": "-",
+   "Description": "GridCoin",
+   "ChangeP": "-1.36",
+   "Rate": "222.0205",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GRID",
+   "Country": "-",
+   "Description": "Grid+",
+   "ChangeP": "-1.78",
+   "Rate": "1.9982",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GRS",
+   "Country": "-",
+   "Description": "Groestlcoin",
+   "ChangeP": "-0.22",
+   "Rate": "2.7584",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GTO",
+   "Country": "-",
+   "Description": "Gifto",
+   "ChangeP": "1.06",
+   "Rate": "39.4965",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GTQ",
+   "Country": "Guatemala",
+   "Description": "Guatemalan Quetzal",
+   "ChangeP": "0.08",
+   "Rate": "7.7468",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GVT",
+   "Country": "-",
+   "Description": "Genesis Vision",
+   "ChangeP": "0.88",
+   "Rate": "4.8441",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/GYD",
+   "Country": "Guyana",
+   "Description": "Guyana-Dollar",
+   "ChangeP": "0.10",
+   "Rate": "209.5282",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/HKD",
+   "Country": "Hong Kong",
+   "Description": "Hong Kong Dollar",
+   "ChangeP": "0.00",
+   "Rate": "7.8501",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/HMQ",
+   "Country": "-",
+   "Description": "Humaniq",
+   "ChangeP": "-10.68",
+   "Rate": "200.8653",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/HNL",
+   "Country": "Honduras",
+   "Description": "Honduran Lempira",
+   "ChangeP": "0.09",
+   "Rate": "24.6147",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/HRK",
+   "Country": "Croatia",
+   "Description": "Croatian Kuna",
+   "ChangeP": "0.31",
+   "Rate": "7.3668",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/HTG",
+   "Country": "Haiti",
+   "Description": "Haitian Gourde",
+   "ChangeP": "0.00",
+   "Rate": "116.1640",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/HUF",
+   "Country": "Hungary",
+   "Description": "Hungarian Forint",
+   "ChangeP": "0.20",
+   "Rate": "390.1300",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/HVN",
+   "Country": "-",
+   "Description": "Hiveterminal",
+   "ChangeP": "-2.21",
+   "Rate": "340.5402",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ICX",
+   "Country": "-",
+   "Description": "ICON",
+   "ChangeP": "-0.58",
+   "Rate": "3.1852",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ILS",
+   "Country": "Israel",
+   "Description": "Neuer Schekel",
+   "ChangeP": "0.18",
+   "Rate": "3.4449",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/INR",
+   "Country": "India",
+   "Description": "Indian Rupee",
+   "ChangeP": "0.18",
+   "Rate": "79.9950",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ION",
+   "Country": "-",
+   "Description": "ION",
+   "ChangeP": "-9.72",
+   "Rate": "188.6187",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/IRR",
+   "Country": "Iran",
+   "Description": "Iranian Rial",
+   "ChangeP": "0.00",
+   "Rate": "42,350.0000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ISK",
+   "Country": "Iceland",
+   "Description": "Icelandic Króna",
+   "ChangeP": "0.60",
+   "Rate": "136.8000",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ITC",
+   "Country": "-",
+   "Description": "IoT Chain",
+   "ChangeP": "0.69",
+   "Rate": "99.3706",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/IXT",
+   "Country": "-",
+   "Description": "iXledger",
+   "ChangeP": "-43.56",
+   "Rate": "203.5338",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/JMD",
+   "Country": "Jamaica",
+   "Description": "Jamaika-Dollar",
+   "ChangeP": "0.11",
+   "Rate": "151.8507",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/JOD",
+   "Country": "Jordan",
+   "Description": "Jordanian Dinar",
+   "ChangeP": "0.00",
+   "Rate": "0.7090",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/JPY",
+   "Country": "Japan",
+   "Description": "Japanese Yen",
+   "ChangeP": "0.00",
+   "Rate": "138.1755",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KCS",
+   "Country": "-",
+   "Description": "KuCoin Shares",
+   "ChangeP": "-2.23",
+   "Rate": "0.0953",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KES",
+   "Country": "Kenya",
+   "Description": "Kenyan Shilling",
+   "ChangeP": "0.00",
+   "Rate": "118.5395",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KHR",
+   "Country": "Cambodia",
+   "Description": "Riel",
+   "ChangeP": "0.10",
+   "Rate": "4,088.3500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KIN",
+   "Country": "-",
+   "Description": "Kin",
+   "ChangeP": "-1.68",
+   "Rate": "75,063.3718",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KMD",
+   "Country": "-",
+   "Description": "Komodo",
+   "ChangeP": "-1.01",
+   "Rate": "3.3466",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KMF",
+   "Country": "Comores",
+   "Description": "Comorian Franc",
+   "ChangeP": "0.00",
+   "Rate": "466.1200",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KNC",
+   "Country": "-",
+   "Description": "Kyber Network",
+   "ChangeP": "-0.88",
+   "Rate": "0.6559",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KRW",
+   "Country": "South Korea",
+   "Description": "South Korean Won",
+   "ChangeP": "0.43",
+   "Rate": "1,311.2300",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KWD",
+   "Country": "Kuwait",
+   "Description": "Kuwaiti Dinar",
+   "ChangeP": "0.11",
+   "Rate": "0.3077",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/KZT",
+   "Country": "Kazakhstan",
+   "Description": "Kasachischer Tenge",
+   "ChangeP": "0.46",
+   "Rate": "482.2500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LA",
+   "Country": "-",
+   "Description": "LAToken",
+   "ChangeP": "1.77",
+   "Rate": "15.3672",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LAK",
+   "Country": "Laos",
+   "Description": "Kip",
+   "ChangeP": "0.10",
+   "Rate": "15,054.8500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LBC",
+   "Country": "-",
+   "Description": "LBRY Credits",
+   "ChangeP": "-0.97",
+   "Rate": "67.0213",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LBP",
+   "Country": "Lebanon",
+   "Description": "Lebanese Lira",
+   "ChangeP": "0.09",
+   "Rate": "1,513.6000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LINK",
+   "Country": "-",
+   "Description": "Ink",
+   "ChangeP": "0.05",
+   "Rate": "2,309.2859",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LKK",
+   "Country": "-",
+   "Description": "Lykke",
+   "ChangeP": "0.04",
+   "Rate": "119.7533",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LKR",
+   "Country": "Sri Lanka",
+   "Description": "Sri Lankan Rupee",
+   "ChangeP": "0.02",
+   "Rate": "360.0000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LRC",
+   "Country": "-",
+   "Description": "Loopring",
+   "ChangeP": "-3.00",
+   "Rate": "2.1522",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LRD",
+   "Country": "Liberia",
+   "Description": "Liberianischer Dollar",
+   "ChangeP": "0.00",
+   "Rate": "152.4000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LSK",
+   "Country": "-",
+   "Description": "Lisk",
+   "ChangeP": "-1.48",
+   "Rate": "0.8614",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LSL",
+   "Country": "Lesotho",
+   "Description": "Lesotho Loti",
+   "ChangeP": "-0.16",
+   "Rate": "17.0563",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LTC",
+   "Country": "-",
+   "Description": "Litecoin",
+   "ChangeP": "-0.63",
+   "Rate": "0.0171",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LUN",
+   "Country": "-",
+   "Description": "Lunyr",
+   "ChangeP": "-1.32",
+   "Rate": "46.8646",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/LYD",
+   "Country": "Libya",
+   "Description": "Libyscher Dinar",
+   "ChangeP": "0.00",
+   "Rate": "4.8794",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MAD",
+   "Country": "Morocco",
+   "Description": "Moroccan Dirham",
+   "ChangeP": "-2.33",
+   "Rate": "10.2475",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MAID",
+   "Country": "-",
+   "Description": "MaidSafeCoin",
+   "ChangeP": "-5.11",
+   "Rate": "2.0959",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MANA",
+   "Country": "-",
+   "Description": "Decentraland",
+   "ChangeP": "1.05",
+   "Rate": "1.0100",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MDA",
+   "Country": "-",
+   "Description": "Moeda Loyalty Points",
+   "ChangeP": "0.43",
+   "Rate": "6.2886",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MED",
+   "Country": "-",
+   "Description": "MediBloc",
+   "ChangeP": "-0.55",
+   "Rate": "43.6985",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MGA",
+   "Country": "Madagascar",
+   "Description": "Ariary",
+   "ChangeP": "2.59",
+   "Rate": "4,211.6500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MIOTA",
+   "Country": "-",
+   "Description": "Iota",
+   "ChangeP": "-1.77",
+   "Rate": "3.1788",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MKD",
+   "Country": "Macedonia",
+   "Description": "Mazedonischer Denar",
+   "ChangeP": "0.00",
+   "Rate": "60.7995",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MLN",
+   "Country": "-",
+   "Description": "Melon",
+   "ChangeP": "-0.95",
+   "Rate": "0.0374",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MMK",
+   "Country": "Myanmar",
+   "Description": "Kyat",
+   "ChangeP": "0.09",
+   "Rate": "1,853.4943",
+   "LastUpdate": "07/19/2022 09:00:00 PM UTC-0400"
+  },
+  {
+   "Name": "USD/MONA",
+   "Country": "-",
+   "Description": "MonaCoin",
+   "ChangeP": "-1.65",
+   "Rate": "0.0009",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MOP",
+   "Country": "-",
+   "Description": "Macau-Pataca",
+   "ChangeP": "0.00",
+   "Rate": "8.0910",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MTH",
+   "Country": "-",
+   "Description": "Monetha",
+   "ChangeP": "2.54",
+   "Rate": "234.2076",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MTL",
+   "Country": "-",
+   "Description": "Metal",
+   "ChangeP": "-0.65",
+   "Rate": "0.7055",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MUR",
+   "Country": "Mauritius",
+   "Description": "Mauritian Rupee",
+   "ChangeP": "-1.77",
+   "Rate": "44.6970",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MVR",
+   "Country": "Maldives",
+   "Description": "Rufiyaa",
+   "ChangeP": "-0.13",
+   "Rate": "15.4000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MWK",
+   "Country": "Malawi",
+   "Description": "Malawian Kwacha",
+   "ChangeP": "0.02",
+   "Rate": "1,026.9150",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MXN",
+   "Country": "Mexico",
+   "Description": "Mexican Peso",
+   "ChangeP": "-0.05",
+   "Rate": "20.5085",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/MYR",
+   "Country": "Malaysia",
+   "Description": "Malaysian Ringgit",
+   "ChangeP": "0.04",
+   "Rate": "4.4520",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NAD",
+   "Country": "Namibia",
+   "Description": "Namibian Dollar",
+   "ChangeP": "0.00",
+   "Rate": "15.8600",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NAS",
+   "Country": "-",
+   "Description": "Nebulas",
+   "ChangeP": "-1.03",
+   "Rate": "24.6162",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NAV",
+   "Country": "-",
+   "Description": "NAV Coin",
+   "ChangeP": "0.51",
+   "Rate": "7.5027",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NEBL",
+   "Country": "-",
+   "Description": "Neblio",
+   "ChangeP": "3.88",
+   "Rate": "4.6982",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NEO",
+   "Country": "-",
+   "Description": "Neo",
+   "ChangeP": "-0.22",
+   "Rate": "0.0949",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NEU",
+   "Country": "-",
+   "Description": "Neumark",
+   "ChangeP": "0.14",
+   "Rate": "23.3335",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NGC",
+   "Country": "-",
+   "Description": "NAGA",
+   "ChangeP": "-0.11",
+   "Rate": "5.5183",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NGN",
+   "Country": "Nigeria",
+   "Description": "Nigerian Naira",
+   "ChangeP": "0.00",
+   "Rate": "415.4000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NIO",
+   "Country": "Nicaragua",
+   "Description": "Nicaraguan Córdoba",
+   "ChangeP": "0.10",
+   "Rate": "35.8950",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NLC2",
+   "Country": "-",
+   "Description": "NoLimitCoin",
+   "ChangeP": "-0.17",
+   "Rate": "1,093.3373",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NLG",
+   "Country": "-",
+   "Description": "Gulden",
+   "ChangeP": "8.68",
+   "Rate": "320.9042",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NMC",
+   "Country": "-",
+   "Description": "Namecoin",
+   "ChangeP": "4.06",
+   "Rate": "0.8236",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NMR",
+   "Country": "-",
+   "Description": "Numeraire",
+   "ChangeP": "-3.01",
+   "Rate": "0.0658",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NOK",
+   "Country": "Norway",
+   "Description": "Norwegian Krone",
+   "ChangeP": "0.41",
+   "Rate": "9.9489",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NPR",
+   "Country": "Nepal",
+   "Description": "Nepalese Rupee",
+   "ChangeP": "0.12",
+   "Rate": "127.9720",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NULS",
+   "Country": "-",
+   "Description": "Nuls",
+   "ChangeP": "-0.36",
+   "Rate": "4.2007",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NXS",
+   "Country": "-",
+   "Description": "Nexus",
+   "ChangeP": "-2.63",
+   "Rate": "5.6950",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NXT",
+   "Country": "-",
+   "Description": "Nxt",
+   "ChangeP": "-1.82",
+   "Rate": "304.6759",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NYC",
+   "Country": "-",
+   "Description": "NewYorkCoin",
+   "ChangeP": "-1.51",
+   "Rate": "140,637.3475",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/NZD",
+   "Country": "New Zealand",
+   "Description": "New Zealand Dollar",
+   "ChangeP": "-0.35",
+   "Rate": "1.6005",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/OK",
+   "Country": "-",
+   "Description": "OKCash",
+   "ChangeP": "-22.12",
+   "Rate": "221.9853",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/OMG",
+   "Country": "-",
+   "Description": "OmiseGO",
+   "ChangeP": "-0.28",
+   "Rate": "0.4970",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/OMNI",
+   "Country": "-",
+   "Description": "Omni",
+   "ChangeP": "0.00",
+   "Rate": "0.3698",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/OMR",
+   "Country": "Oman",
+   "Description": "Omani Rial",
+   "ChangeP": "-0.15",
+   "Rate": "0.3845",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ONION",
+   "Country": "-",
+   "Description": "DeepOnion",
+   "ChangeP": "1.76",
+   "Rate": "17.6219",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ORME",
+   "Country": "-",
+   "Description": "Ormeus Coin",
+   "ChangeP": "2.25",
+   "Rate": "2,900.2896",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/OST",
+   "Country": "-",
+   "Description": "Simple Token",
+   "ChangeP": "-6.46",
+   "Rate": "1,998.3438",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PAB",
+   "Country": "Panama",
+   "Description": "Balboa",
+   "ChangeP": "0.09",
+   "Rate": "1.0010",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PAC",
+   "Country": "-",
+   "Description": "PACcoin",
+   "ChangeP": "2.31",
+   "Rate": "2,244.1665",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PART",
+   "Country": "-",
+   "Description": "Particl",
+   "ChangeP": "9.56",
+   "Rate": "3.1182",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PASC",
+   "Country": "-",
+   "Description": "Pascal Coin",
+   "ChangeP": "-18.01",
+   "Rate": "84.0511",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PAY",
+   "Country": "-",
+   "Description": "TenX",
+   "ChangeP": "2.70",
+   "Rate": "55.7845",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PAYX",
+   "Country": "-",
+   "Description": "Paypex",
+   "ChangeP": "-2.53",
+   "Rate": "31,600.5318",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PEN",
+   "Country": "Peru",
+   "Description": "Sol",
+   "ChangeP": "0.00",
+   "Rate": "3.8754",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PHP",
+   "Country": "Philippines",
+   "Description": "Philippine Peso",
+   "ChangeP": "0.16",
+   "Rate": "56.2420",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PHR",
+   "Country": "-",
+   "Description": "Phore",
+   "ChangeP": "0.84",
+   "Rate": "95.7529",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PIVX",
+   "Country": "-",
+   "Description": "PIVX",
+   "ChangeP": "1.42",
+   "Rate": "5.7612",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PKR",
+   "Country": "Pakistan",
+   "Description": "Pakistani Rupee",
+   "ChangeP": "1.58",
+   "Rate": "225.2500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PLN",
+   "Country": "Poland",
+   "Description": "Polish Zloty",
+   "ChangeP": "0.74",
+   "Rate": "4.6817",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PLR",
+   "Country": "-",
+   "Description": "Pillar",
+   "ChangeP": "-2.05",
+   "Rate": "183.8910",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/POE",
+   "Country": "-",
+   "Description": "Poet",
+   "ChangeP": "-1.40",
+   "Rate": "32,417.4040",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/POT",
+   "Country": "-",
+   "Description": "PotCoin",
+   "ChangeP": "43.49",
+   "Rate": "383.4291",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/POWR",
+   "Country": "-",
+   "Description": "Power Ledger",
+   "ChangeP": "-0.91",
+   "Rate": "3.8971",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PPC",
+   "Country": "-",
+   "Description": "Peercoin",
+   "ChangeP": "0.00",
+   "Rate": "1,666.5803",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PPP",
+   "Country": "-",
+   "Description": "PayPie",
+   "ChangeP": "-1.40",
+   "Rate": "140.4754",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PPT",
+   "Country": "-",
+   "Description": "Populous",
+   "ChangeP": "0.84",
+   "Rate": "7.5979",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PRO",
+   "Country": "-",
+   "Description": "Propy",
+   "ChangeP": "1.29",
+   "Rate": "1.2269",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/PYG",
+   "Country": "Paraguay",
+   "Description": "Paraguayan Guarani",
+   "ChangeP": "0.10",
+   "Rate": "6,873.7000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/QAR",
+   "Country": "Qatar",
+   "Description": "Qatari Riyal",
+   "ChangeP": "0.00",
+   "Rate": "3.6418",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/QASH",
+   "Country": "-",
+   "Description": "QASH",
+   "ChangeP": "-0.97",
+   "Rate": "21.6576",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/QRL",
+   "Country": "-",
+   "Description": "Quantum Resistant Ledger",
+   "ChangeP": "-9.26",
+   "Rate": "5.7542",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/QSP",
+   "Country": "-",
+   "Description": "Quantstamp",
+   "ChangeP": "-1.95",
+   "Rate": "37.9498",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/QTUM",
+   "Country": "-",
+   "Description": "Qtum",
+   "ChangeP": "-1.84",
+   "Rate": "0.3028",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RCN",
+   "Country": "-",
+   "Description": "Ripio Credit Network",
+   "ChangeP": "-0.63",
+   "Rate": "245.8287",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RDD",
+   "Country": "-",
+   "Description": "ReddCoin",
+   "ChangeP": "-1.35",
+   "Rate": "2,108.8601",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RDN",
+   "Country": "-",
+   "Description": "Raiden Network Token",
+   "ChangeP": "2.16",
+   "Rate": "14.7116",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/REP",
+   "Country": "-",
+   "Description": "Augur",
+   "ChangeP": "-0.65",
+   "Rate": "0.1135",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/REQ",
+   "Country": "-",
+   "Description": "Request Network",
+   "ChangeP": "-0.65",
+   "Rate": "7.8010",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RHOC",
+   "Country": "-",
+   "Description": "RChain",
+   "ChangeP": "0.36",
+   "Rate": "59.1669",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RISE",
+   "Country": "-",
+   "Description": "Rise",
+   "ChangeP": "0.11",
+   "Rate": "1,153.3023",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RLC",
+   "Country": "-",
+   "Description": "iExec RLC",
+   "ChangeP": "-0.77",
+   "Rate": "0.9843",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RUB",
+   "Country": "Russian Federation",
+   "Description": "Russian Ruble",
+   "ChangeP": "-1.95",
+   "Rate": "55.4000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RVT",
+   "Country": "-",
+   "Description": "Rivetz",
+   "ChangeP": "-1.73",
+   "Rate": "1,496.7583",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/RWF",
+   "Country": "Rwanda",
+   "Description": "Rwandan Franc",
+   "ChangeP": "0.10",
+   "Rate": "1,027.3200",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SALT",
+   "Country": "-",
+   "Description": "SALT",
+   "ChangeP": "-1.54",
+   "Rate": "24.9582",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SAN",
+   "Country": "-",
+   "Description": "Santiment Network Token",
+   "ChangeP": "-1.43",
+   "Rate": "6.9873",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SAR",
+   "Country": "Saudi Arabia",
+   "Description": "Saudi Riyal",
+   "ChangeP": "0.06",
+   "Rate": "3.7572",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SBD",
+   "Country": "Solomon Islands",
+   "Description": "Salomonen-Dollar",
+   "ChangeP": "0.00",
+   "Rate": "8.1346",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SC",
+   "Country": "-",
+   "Description": "Siacoin",
+   "ChangeP": "-4.10",
+   "Rate": "214.0509",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SCR",
+   "Country": "Seychelles",
+   "Description": "Seychellois Rupee",
+   "ChangeP": "-7.88",
+   "Rate": "13.1110",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SEK",
+   "Country": "Sweden",
+   "Description": "Swedish Krona",
+   "ChangeP": "0.31",
+   "Rate": "10.2677",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SGD",
+   "Country": "Singapore",
+   "Description": "Singapore Dollar",
+   "ChangeP": "0.08",
+   "Rate": "1.3930",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SIB",
+   "Country": "-",
+   "Description": "SIBCoin",
+   "ChangeP": "-1.32",
+   "Rate": "8.2863",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SKY",
+   "Country": "-",
+   "Description": "Skycoin",
+   "ChangeP": "0.57",
+   "Rate": "8.2686",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SLS",
+   "Country": "-",
+   "Description": "SaluS",
+   "ChangeP": "-1.32",
+   "Rate": "0.1102",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SMART",
+   "Country": "-",
+   "Description": "SmartCash",
+   "ChangeP": "-3.55",
+   "Rate": "2,101.9814",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SNC",
+   "Country": "-",
+   "Description": "SunContract",
+   "ChangeP": "-3.49",
+   "Rate": "37.4213",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SNT",
+   "Country": "-",
+   "Description": "Status",
+   "ChangeP": "-0.52",
+   "Rate": "30.9108",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SOS",
+   "Country": "Somalia",
+   "Description": "Somalia-Schilling",
+   "ChangeP": "0.04",
+   "Rate": "578.7500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SPANK",
+   "Country": "-",
+   "Description": "SpankChain",
+   "ChangeP": "-2.27",
+   "Rate": "277.0694",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SRD",
+   "Country": "Suriname",
+   "Description": "Suriname-Dollar",
+   "ChangeP": "0.00",
+   "Rate": "22.6675",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SRN",
+   "Country": "-",
+   "Description": "SIRIN LABS Token",
+   "ChangeP": "13.44",
+   "Rate": "261.9765",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/STEEM",
+   "Country": "-",
+   "Description": "Steem",
+   "ChangeP": "-10.03",
+   "Rate": "3.8065",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/STORJ",
+   "Country": "-",
+   "Description": "Storj",
+   "ChangeP": "-1.32",
+   "Rate": "1.3851",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/STORM",
+   "Country": "-",
+   "Description": "Storm",
+   "ChangeP": "-0.71",
+   "Rate": "466.3131",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/STX",
+   "Country": "-",
+   "Description": "Stox",
+   "ChangeP": "-0.92",
+   "Rate": "325.0446",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SUB",
+   "Country": "-",
+   "Description": "Substratum",
+   "ChangeP": "0.17",
+   "Rate": "1,143.5605",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SVC",
+   "Country": "El Salvador",
+   "Description": "Costa Rican Colon",
+   "ChangeP": "0.09",
+   "Rate": "8.7592",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SYS",
+   "Country": "-",
+   "Description": "Syscoin",
+   "ChangeP": "-4.98",
+   "Rate": "5.3678",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/SZL",
+   "Country": "Swaziland",
+   "Description": "Lilangeni",
+   "ChangeP": "0.00",
+   "Rate": "17.1150",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TAU",
+   "Country": "-",
+   "Description": "Lamden",
+   "ChangeP": "-0.07",
+   "Rate": "41.9147",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/THB",
+   "Country": "Thailand",
+   "Description": "Thai Baht",
+   "ChangeP": "0.16",
+   "Rate": "36.6700",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/THC",
+   "Country": "-",
+   "Description": "HempCoin",
+   "ChangeP": "-1.35",
+   "Rate": "401.6876",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TIX",
+   "Country": "-",
+   "Description": "Blocktix",
+   "ChangeP": "-1.32",
+   "Rate": "1,405.9369",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TJS",
+   "Country": "Tadzhikistan",
+   "Description": "Somoni",
+   "ChangeP": "0.00",
+   "Rate": "10.2416",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TKN",
+   "Country": "-",
+   "Description": "TokenCard",
+   "ChangeP": "47.10",
+   "Rate": "18.0140",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TMT",
+   "Country": "Turkmenistan",
+   "Description": "Turkmenistan-Manat",
+   "ChangeP": "0.00",
+   "Rate": "3.5000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TNB",
+   "Country": "-",
+   "Description": "Time New Bank",
+   "ChangeP": "-0.88",
+   "Rate": "179.7558",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TOP",
+   "Country": "Tonga",
+   "Description": "Pa'anga",
+   "ChangeP": "-0.45",
+   "Rate": "2.3479",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TRST",
+   "Country": "-",
+   "Description": "WeTrust",
+   "ChangeP": "-1.41",
+   "Rate": "780.8956",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TRX",
+   "Country": "-",
+   "Description": "Tron",
+   "ChangeP": "-0.54",
+   "Rate": "14.3837",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TRY",
+   "Country": "Turkey",
+   "Description": "Turkish New Lira",
+   "ChangeP": "0.17",
+   "Rate": "17.5850",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TTD",
+   "Country": "Trinidad and Tobago",
+   "Description": "Trinidad and Tobago Dollar",
+   "ChangeP": "0.09",
+   "Rate": "6.7944",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TWD",
+   "Country": "Taiwan",
+   "Description": "New Taiwan Dollar",
+   "ChangeP": "0.13",
+   "Rate": "29.9192",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/TZS",
+   "Country": "Tanzania",
+   "Description": "Tanzanian Shilling",
+   "ChangeP": "0.00",
+   "Rate": "2,332.0000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/UAH",
+   "Country": "Ukraine",
+   "Description": "Ukrainian Hryvnia",
+   "ChangeP": "-0.03",
+   "Rate": "29.5400",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/UBQ",
+   "Country": "-",
+   "Description": "Ubiq",
+   "ChangeP": "-2.81",
+   "Rate": "20.9573",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/UGX",
+   "Country": "Uganda",
+   "Description": "Ugandan Shilling",
+   "ChangeP": "0.20",
+   "Rate": "3,805.0000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/USDT",
+   "Country": "-",
+   "Description": "Tether",
+   "ChangeP": "0.00",
+   "Rate": "0.9999",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/UTK",
+   "Country": "-",
+   "Description": "UTRUST",
+   "ChangeP": "-0.93",
+   "Rate": "6.9981",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/UYU",
+   "Country": "Uruguay",
+   "Description": "Uruguayan Peso",
+   "ChangeP": "-0.23",
+   "Rate": "42.0390",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VEE",
+   "Country": "-",
+   "Description": "BLOCKv",
+   "ChangeP": "-6.60",
+   "Rate": "595.6717",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VERI",
+   "Country": "-",
+   "Description": "Veritaseum",
+   "ChangeP": "-5.40",
+   "Rate": "0.0352",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VIA",
+   "Country": "-",
+   "Description": "Viacoin",
+   "ChangeP": "-1.35",
+   "Rate": "3.5593",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VIB",
+   "Country": "-",
+   "Description": "Viberate",
+   "ChangeP": "-1.46",
+   "Rate": "65.5042",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VIBE",
+   "Country": "-",
+   "Description": "VIBE",
+   "ChangeP": "9.31",
+   "Rate": "240.5693",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VND",
+   "Country": "Vietnam",
+   "Description": "Vietnamese Dong",
+   "ChangeP": "0.01",
+   "Rate": "23,420.0000",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VOX",
+   "Country": "-",
+   "Description": "Voxels",
+   "ChangeP": "-1.26",
+   "Rate": "1.0537",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/VTC",
+   "Country": "-",
+   "Description": "Vertcoin",
+   "ChangeP": "-1.95",
+   "Rate": "6.4678",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/WABI",
+   "Country": "-",
+   "Description": "WaBi",
+   "ChangeP": "-2.05",
+   "Rate": "21.8979",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/WAVES",
+   "Country": "-",
+   "Description": "Waves",
+   "ChangeP": "0.05",
+   "Rate": "0.1608",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/WGR",
+   "Country": "-",
+   "Description": "Wagerr",
+   "ChangeP": "1.53",
+   "Rate": "128.1557",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/WINGS",
+   "Country": "-",
+   "Description": "Wings",
+   "ChangeP": "-1.41",
+   "Rate": "243.3492",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/WRC",
+   "Country": "-",
+   "Description": "Worldcore",
+   "ChangeP": "-2.04",
+   "Rate": "3,830.3376",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/WTC",
+   "Country": "-",
+   "Description": "Walton",
+   "ChangeP": "1.80",
+   "Rate": "4.1631",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XAF",
+   "Country": "Cameroon",
+   "Description": "Central African CFA Franc",
+   "ChangeP": "-0.20",
+   "Rate": "640.0517",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XAS",
+   "Country": "-",
+   "Description": "Asch",
+   "ChangeP": "-2.00",
+   "Rate": "740.6764",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XAUT",
+   "Country": "-",
+   "Description": "Tether Gold",
+   "ChangeP": "-0.09",
+   "Rate": "0.0006",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XBY",
+   "Country": "-",
+   "Description": "XTRABYTES",
+   "ChangeP": "-1.32",
+   "Rate": "2,108.9053",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XCP",
+   "Country": "-",
+   "Description": "Counterparty",
+   "ChangeP": "0.03",
+   "Rate": "0.3071",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XDN",
+   "Country": "-",
+   "Description": "DigitalNote",
+   "ChangeP": "-2.90",
+   "Rate": "17,537.9648",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XEM",
+   "Country": "-",
+   "Description": "NEM",
+   "ChangeP": "0.25",
+   "Rate": "19.1628",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XLM",
+   "Country": "-",
+   "Description": "Stellar",
+   "ChangeP": "-0.28",
+   "Rate": "8.4030",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XMR",
+   "Country": "-",
+   "Description": "Monero",
+   "ChangeP": "0.86",
+   "Rate": "0.0069",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XMY",
+   "Country": "-",
+   "Description": "Myriad",
+   "ChangeP": "-1.68",
+   "Rate": "6,459.2252",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XPA",
+   "Country": "-",
+   "Description": "XPlay",
+   "ChangeP": "-2.33",
+   "Rate": "1,809.2575",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XRP",
+   "Country": "-",
+   "Description": "Ripple",
+   "ChangeP": "-0.59",
+   "Rate": "2.6627",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XSH",
+   "Country": "-",
+   "Description": "SHIELD",
+   "ChangeP": "-1.45",
+   "Rate": "6,019.0457",
+   "LastUpdate": "07/20/2022 06:26:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XTZ",
+   "Country": "-",
+   "Description": "Tezos",
+   "ChangeP": "-0.16",
+   "Rate": "0.5728",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XVG",
+   "Country": "-",
+   "Description": "Verge",
+   "ChangeP": "-0.76",
+   "Rate": "257.6669",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XWC",
+   "Country": "-",
+   "Description": "WhiteCoin",
+   "ChangeP": "-0.79",
+   "Rate": "15.2337",
+   "LastUpdate": "07/20/2022 06:41:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/XZC",
+   "Country": "-",
+   "Description": "ZCoin",
+   "ChangeP": "-2.04",
+   "Rate": "0.3446",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/YER",
+   "Country": "Yemen",
+   "Description": "Jemen-Rial",
+   "ChangeP": "0.00",
+   "Rate": "250.2950",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/YOYOW",
+   "Country": "-",
+   "Description": "YOYOW",
+   "ChangeP": "0.58",
+   "Rate": "723.5519",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ZAR",
+   "Country": "South Africa",
+   "Description": "South African Rand",
+   "ChangeP": "0.03",
+   "Rate": "17.0961",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ZCL",
+   "Country": "-",
+   "Description": "ZClassic",
+   "ChangeP": "-1.32",
+   "Rate": "27.2117",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ZEC",
+   "Country": "-",
+   "Description": "Zcash",
+   "ChangeP": "-1.69",
+   "Rate": "0.0151",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ZEN",
+   "Country": "-",
+   "Description": "ZenCash",
+   "ChangeP": "-0.33",
+   "Rate": "0.0552",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ZMW",
+   "Country": "Zambia",
+   "Description": "Zambian Kwacha",
+   "ChangeP": "0.15",
+   "Rate": "16.4500",
+   "LastUpdate": "07/20/2022 06:39:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ZRX",
+   "Country": "-",
+   "Description": "0x",
+   "ChangeP": "-1.25",
+   "Rate": "2.9681",
+   "LastUpdate": "07/20/2022 06:40:00 AM UTC-0400"
+  },
+  {
+   "Name": "USD/ZSC",
+   "Country": "-",
+   "Description": "Zeusshield",
+   "ChangeP": "-4.26",
+   "Rate": "8,992.4249",
+   "LastUpdate": "07/20/2022 06:25:00 AM UTC-0400"
+  }
+ ]
+}

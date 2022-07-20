@@ -1,11 +1,11 @@
 gen:
-	protoc --go_out=. --go-grpc_out=. proto/currency.proto
+	protoc --go_out=. --go-grpc_out=. proto/*.proto
 .PHONY: gen
 
-server-run:
+srv:
 	go run ./server
 .PHONY: server-run
 
-client-run:
+clt:
 	go run ./client
 .PHONY: server-run

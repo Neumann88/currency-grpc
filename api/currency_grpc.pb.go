@@ -8,6 +8,7 @@ package api
 
 import (
 	context "context"
+	empty "github.com/golang/protobuf/ptypes/empty"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"
@@ -22,7 +23,7 @@ const _ = grpc.SupportPackageIsVersion7
 //
 // For semantics around ctx use and closing/ending streaming RPCs, please refer to https://pkg.go.dev/google.golang.org/grpc/?tab=doc#ClientConn.NewStream.
 type CurrencyServiceClient interface {
-	GetCurrency(ctx context.Context, in *CurrencyRequest, opts ...grpc.CallOption) (*CurrencyResponse, error)
+	GetCurrency(ctx context.Context, in *empty.Empty, opts ...grpc.CallOption) (*CurrencyResponse, error)
 }
 
 type currencyServiceClient struct {
@@ -33,7 +34,7 @@ func NewCurrencyServiceClient(cc grpc.ClientConnInterface) CurrencyServiceClient
 	return &currencyServiceClient{cc}
 }
 
-func (c *currencyServiceClient) GetCurrency(ctx context.Context, in *CurrencyRequest, opts ...grpc.CallOption) (*CurrencyResponse, error) {
+func (c *currencyServiceClient) GetCurrency(ctx context.Context, in *empty.Empty, opts ...grpc.CallOption) (*CurrencyResponse, error) {
 	out := new(CurrencyResponse)
 	err := c.cc.Invoke(ctx, "/currency.CurrencyService/GetCurrency", in, out, opts...)
 	if err != nil {
@@ -46,7 +47,7 @@ func (c *currencyServiceClient) GetCurrency(ctx context.Context, in *CurrencyReq
 // All implementations must embed UnimplementedCurrencyServiceServer
 // for forward compatibility
 type CurrencyServiceServer interface {
-	GetCurrency(context.Context, *CurrencyRequest) (*CurrencyResponse, error)
+	GetCurrency(context.Context, *empty.Empty) (*CurrencyResponse, error)
 	mustEmbedUnimplementedCurrencyServiceServer()
 }
 
@@ -54,7 +55,7 @@ type CurrencyServiceServer interface {
 type UnimplementedCurrencyServiceServer struct {
 }
 
-func (UnimplementedCurrencyServiceServer) GetCurrency(context.Context, *CurrencyRequest) (*CurrencyResponse, error) {
+func (UnimplementedCurrencyServiceServer) GetCurrency(context.Context, *empty.Empty) (*CurrencyResponse, error) {
 	return nil, status.Errorf(codes.Unimplemented, "method GetCurrency not implemented")
 }
 func (UnimplementedCurrencyServiceServer) mustEmbedUnimplementedCurrencyServiceServer() {}
@@ -71,7 +72,7 @@ func RegisterCurrencyServiceServer(s grpc.ServiceRegistrar, srv CurrencyServiceS
 }
 
 func _CurrencyService_GetCurrency_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
-	in := new(CurrencyRequest)
+	in := new(empty.Empty)
 	if err := dec(in); err != nil {
 		return nil, err
 	}
@@ -83,7 +84,7 @@ func _CurrencyService_GetCurrency_Handler(srv interface{}, ctx context.Context, 
 		FullMethod: "/currency.CurrencyService/GetCurrency",
 	}
 	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
-		return srv.(CurrencyServiceServer).GetCurrency(ctx, req.(*CurrencyRequest))
+		return srv.(CurrencyServiceServer).GetCurrency(ctx, req.(*empty.Empty))
 	}
 	return interceptor(ctx, in, info, handler)
 }

@@ -4,25 +4,22 @@ package currency;
 
 option go_package = "/api";
 
+import "google/protobuf/empty.proto";
+
 service CurrencyService {
-    rpc GetCurrency (CurrencyRequest) returns (CurrencyResponse);
+    rpc GetCurrency (google.protobuf.Empty) returns (CurrencyResponse) {};
 }
 
-enum Currency {
-    USD = 0;
-    EUR = 1;
-    RU = 2;
-}
-
-message CurrencyRequest {
-    Currency Name = 1;
+message Currency {
+    string Name = 1;
+    string Country = 2;
+    string Description = 3;
+    string ChangeP = 4;
+    string Rate = 6;
+    string LastUpdate = 7;
 }
 
 message CurrencyResponse {
-    Currency Name = 1;
-    string Country = 2;
-    string Description = 3;
-    float Change = 4;
-    float RateUSD = 5;
-    string UpdatedAt = 6;
+    string Date = 1;
+    repeated Currency Data = 2;
 }
